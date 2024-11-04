@@ -1,4 +1,4 @@
-name: hotel-reservation-dataset
+name: churn-imbalanced-dataset
 on: [push]
 permissions: write-all
 jobs:
